@@ -1,0 +1,9 @@
+{
+  "name": "joyride",
+  "description": "Meteor package to wrap ZURB Foundation's Joyride plugin.",
+  "homepage": "https://github.com/stevemanuel/meteor-joyride",
+  "author": "Steve Manuel (https://twitter.com/stevemanuel)",
+  "version": "0.0.1",
+  "git": "https://github.com/stevemanuel/meteor-joyride.git",
+  "packages" : {}
+}
